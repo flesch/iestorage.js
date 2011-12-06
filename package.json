@@ -1,0 +1,14 @@
+{
+  "name": "localstorage.js",
+  "homepage": "http://github.com/flesch/localstorage.js",
+  "description": "Give IE7 (and lower) window.localStorage.",
+  "version": "0.0.1",
+  "author": {
+    "name": "John Flesch",
+    "url": "http://github.com/flesch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flesch/localstorage.js.git"
+  },
+}
